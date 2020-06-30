@@ -1,0 +1,32 @@
+/* visual */
+#sub2_visual {width:100%;margin-top:130px}
+#sub2_visual img {width:100%; height:150px;}
+
+
+/* subWrap */
+#conwrap {width:1200px; height:1100px; margin:auto}
+#conwrap #sub2 {width:1200px; padding-top:50px ;border-bottom: 1px solid #aaa;}
+#conwrap #sub2 h2 { padding-bottom:20px; color:#555}
+#conwrap #nav {width:200px;margin-top:100px; float:left; background-color:#fff;}
+#conwrap #nav ul.navi {width:200px; text-indent: 10px; margin-top:1000px;}
+#conwrap ul.navi li.group {margin-bottom: 3px}
+#conwrap #nav ul.navi,
+#conwrap #nav ul.navi ul.sub {list-style: none; margin: 0; padding: 0;}
+
+
+/* sub li */
+div.title {height: 35px; margin-bottom: 2px; line-height: 30px; color:#fff; background:#369; cursor:pointer}
+#conwrap ul.navi li.group ul.sub li {height:35px; margin-bottom: 2px; line-height: 30px; 
+background:#eee}
+#conwrap ul.navi li.group ul.sub li a {text-decoration: none; display: block; width: 100%; height: 100%;
+color:#000}
+#conwrap ul.navi li.group ul.sub li:hover {background:#ccc}
+
+
+/* table */
+#con1 {width:1200px;}
+#con1 .box8 {float:left; width:900px; height:900px; margin-top:100px;margin-left: 100px;;}
+
+table {border-collapse:collapse; width:900px}
+th, td {border: 1px solid black; border-collapse: collapse}
+th, td {padding:5px; text-align: left}
